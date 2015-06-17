@@ -32,6 +32,7 @@ mod 'theforeman/foreman'
 mod 'theforeman/foreman_proxy'
 mod 'theforeman/puppet'
 mod 'theforeman/tftp'
+mod 'thomasvandoren/redis'
 mod 'zack/r10k'
 
 mod 'arthurjames',
