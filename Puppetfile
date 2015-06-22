@@ -3,7 +3,7 @@ forge 'forge.puppetlabs.com'
 # Forge Modules
 mod 'puppetlabs/apache'
 mod 'puppetlabs/apt','1.8.0'
-mod 'puppetlabs/concat','1.2.2'
+mod 'puppetlabs/concat','1.2.3'
 mod 'puppetlabs/firewall'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/git'
