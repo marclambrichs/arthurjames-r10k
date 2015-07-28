@@ -36,7 +36,6 @@ mod 'theforeman/puppet'
 mod 'theforeman/tftp'
 mod 'thomasvandoren/redis'
 mod 'zack/r10k'
-mod 'zpetr/couchdb'
 
 mod 'arthurjames',
   :git => 'https://github.com/mlambrichs/arthurjames-puppetmaster.git'
