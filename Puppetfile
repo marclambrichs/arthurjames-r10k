@@ -35,3 +35,5 @@ mod 'zack/r10k'
 
 mod 'arthurjames',
   :git => 'https://github.com/mlambrichs/arthurjames-puppetmaster.git'
+mod 'carbon_c_relay',
+  :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git'
