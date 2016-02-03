@@ -3,6 +3,7 @@ forge 'forge.puppetlabs.com'
 # Forge Modules
 mod 'puppetlabs/apache'
 mod 'puppetlabs/apt'
+mod 'puppetlabs/catalog_preview'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/firewall'
 mod 'puppetlabs/gcc'
@@ -38,3 +39,5 @@ mod 'arthurjames',
   :git => 'https://github.com/mlambrichs/arthurjames-modules.git'
 mod 'carbon_c_relay',
   :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git'
+mod 'neo4j',
+  :git => 'https://github.com/mlambrichs/puppet-neo4j.git'
