@@ -41,4 +41,5 @@ mod 'arthurjames',
 mod 'carbon_c_relay',
   :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git'
 mod 'neo4j',
-  :git => 'https://github.com/mlambrichs/puppet-neo4j.git'
+  :git => 'https://github.com/mlambrichs/puppet-neo4j.git',
+  :branch => 'skyscrapers-neo4j_refactor'
