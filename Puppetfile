@@ -48,8 +48,8 @@ mod 'carbon_c_relay',
   :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git'
 mod 'carbon_relay_ng',
   :git => 'https://github.com/mlambrichs/puppet-carbon_relay_ng.git'
-mod 'graphite_web',
-  :git => 'https://github.com/mlambrichs/puppet-graphite_web.git'
+mod 'graphite_frontend',
+  :git => 'https://github.com/mlambrichs/puppet-graphite_frontend.git'
 mod 'neo4j',
   :git => 'https://github.com/mlambrichs/puppet-neo4j.git',
   :branch => 'skyscrapers-neo4j_refactor'
