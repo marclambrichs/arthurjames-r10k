@@ -38,6 +38,7 @@ mod 'theforeman/foreman'
 mod 'theforeman/foreman_proxy'
 mod 'theforeman/puppet'
 mod 'theforeman/tftp'
+mod 'yo61/logrotate'
 mod 'zack/r10k'
 
 mod 'arthurjames',
