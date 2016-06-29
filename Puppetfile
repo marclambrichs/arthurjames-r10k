@@ -22,9 +22,11 @@ mod 'puppetlabs/xinetd'
 mod 'adrien/alternatives'
 mod 'attachmentgenie/timezone'
 mod 'bfraser/grafana'
+mod 'camptocamp/openldap'
 mod 'croddy/make'
-mod 'datacentred/ldap'
+#mod 'datacentred/ldap'
 mod 'gentoo/portage'
+mod 'icinga/icingaweb2'
 mod 'inkblot/bind'
 mod 'ispavailability/file_concat'
 mod 'puppet/collectd'
@@ -54,3 +56,6 @@ mod 'graphite_frontend',
 mod 'neo4j',
   :git => 'https://github.com/mlambrichs/puppet-neo4j.git',
   :branch => 'skyscrapers-neo4j_refactor'
+mod 'icinga2',
+  :git => 'https://github.com/Icinga/puppet-icinga2.git',
+  :branch => 'develop'
