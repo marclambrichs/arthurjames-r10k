@@ -48,7 +48,8 @@ mod 'arthurjames',
 mod 'carbon',
   :git => 'https://github.com/mlambrichs/puppet-carbon.git'
 mod 'carbon_c_relay',
-  :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git'
+  :git => 'https://github.com/mlambrichs/puppet-carbon_c_relay.git',
+  :tag => '0.3'
 mod 'carbon_relay_ng',
   :git => 'https://github.com/mlambrichs/puppet-carbon_relay_ng.git'
 mod 'graphite_frontend',
