@@ -29,6 +29,7 @@ mod 'gentoo/portage'
 mod 'icinga/icingaweb2'
 mod 'inkblot/bind'
 mod 'ispavailability/file_concat'
+mod 'puppet/archive'
 mod 'puppet/collectd'
 mod 'ripienaar/module_data'
 mod 'saz/memcached'
@@ -55,7 +56,7 @@ mod 'graphite_frontend',
   :git => 'https://github.com/mlambrichs/puppet-graphite_frontend.git'
 mod 'neo4j',
   :git => 'https://github.com/mlambrichs/puppet-neo4j.git',
-  :branch => 'skyscrapers-neo4j_refactor'
+  :branch => 'master'
 mod 'icinga2',
   :git => 'https://github.com/Icinga/puppet-icinga2.git',
   :branch => 'develop'
